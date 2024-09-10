@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 😀
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -11,17 +11,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yessh&show_icons=true&theme=shadow_green)
 
-<!--
-**yessh/yessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=godqhrrl1)](https://solved.ac/godqhrrl1)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
