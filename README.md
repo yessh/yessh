@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h3 align="center">📚 Tech Stack 📚</h3>
+
 <!--
 **yessh/yessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
